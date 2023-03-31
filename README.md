@@ -1,2 +1,2 @@
 # PortfolioProjects
-Find all my portfolio projects here
+Find all of my portfolio projects here
